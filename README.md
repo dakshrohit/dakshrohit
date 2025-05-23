@@ -1,6 +1,6 @@
 
 
-![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=DAKSH%20&text2=i%20like%20coding%20and%20VLSI:)&width=900&height=400)
+![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=DAKSH%20&text2=i%20like%20coding%20and%20VLSI..&width=900&height=400)
 
 
 <img height="auto" src="https://komarev.com/ghpvc/?username=dakshrohit&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
